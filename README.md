@@ -36,3 +36,5 @@ a) Анна Каренина: в 5-ке наиболее частотных ок
 
 ![https://github.com/isivanova/hw6/blob/master5.jpg](https://github.com/isivanova/hw6/blob/master/5.jpg)
 
+
+К сожалению, далее мой ноутбук завис, по видимому, AntConc в этот момент показался ему непосильным. Извините.
