@@ -3,7 +3,7 @@ Homework'6
 
 Google NGrams
 
-1. ![https://github.com/isivanova/hw6/blob/master/2.jpg](https://github.com/isivanova/hw6/blob/master/1.jpg)
+1. ![https://github.com/isivanova/hw6/blob/master/1.jpg](https://github.com/isivanova/hw6/blob/master/1.jpg)
 
 2. ![https://github.com/isivanova/hw6/blob/master/2.jpg](https://github.com/isivanova/hw6/blob/master/2.jpg)
 
@@ -19,6 +19,17 @@ a) Анна Каренина: в 5-ке наиболее частотных ок
 2. Слово "Аа": — Аа! — сказал Вронский, — я и не знал. 
 3. Слово "Абажур": – Ну, и бог с тобой, – сказала она у двери кабинета, где уже были приготовлены ему абажур на свече и графин воды у кресла. Cловоформы "абажура", "абажурами" и "абажуром" также встречаются по одному разу.
 
-г) 1. Concordance Plot для слова "Аркадьича" показывает, что это имя собственное встречается в разных формах довольно часто, а именно - 84 раза (Concordance hits: 84). Особенно часто его можно встретить в середине и ближе к концу.
+г) 
+1. Concordance Plot для слова "Аркадьича" показывает, что это имя собственное встречается в разных формах довольно часто, а именно - 84 раза (Concordance hits: 84). Особенно часто его можно встретить в середине и ближе к концу.
+
 2. Concordance Plot для слова "Аа" представляет собой одну тонкую вертикальную прямую, ведь слово встречается всехо один раз (Concordance hits: 1).
+
 3. В Concordance Plot для слова "Абвжур" видим ровно такую же картину, как и со словом"Аа": одна прямая, (Concordance hits: 1). Странно, что при этом поиске программа не учитывает словоформы, в отличие от поиска по слову "Аркадьич"
+
+д) список биграмм - 5-грамм для слова "ревность":
+
+![https://github.com/isivanova/hw6/blob/master/4.jpg](https://github.com/isivanova/hw6/blob/master/4.jpg)
+
+
+![https://github.com/isivanova/hw6/blob/master5.jpg](https://github.com/isivanova/hw6/blob/master/5.jpg)
+
